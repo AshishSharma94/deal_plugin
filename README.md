@@ -8,7 +8,8 @@ This is a WordPress plugin which creates a **custom post type Deals** and in t
 4. Founders of the Company
 5. Deal Stage Signed
 6. Funding Amount (as an assignment i developed it to be maxed at 10000000)
-7. Supported Article along with article link 
+7. Supported Article along with article link
+8. Logo/Featured Image - Recommended Size should be 100px X 100px (or it should be in square for best fit).
 
 We have two other fields (title and featured image), we are using the featured image field to upload Logo and title field for giving unique title to every post.
 
